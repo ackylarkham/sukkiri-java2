@@ -3,7 +3,7 @@ public class MemoryEater {
     public static void main(String[] args) throws Exception {
         Locale loc = Locale.getDefault();
         String lang = loc.getLanguage();
-        if(lang.equals("jp")) {
+        if(lang.equals("ja")) {
             System.out.println("言語: " + lang + " msg: メモリを消費しています");
         } else {
             System.out.println("language: " + lang + " msg: eating memory");
