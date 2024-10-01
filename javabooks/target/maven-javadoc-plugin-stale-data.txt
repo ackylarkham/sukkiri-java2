@@ -1,0 +1,51 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'/home/user/.m2/repository/org/apache/commons/commons-lang3/3.11/commons-lang3-3.11.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'/home/user/sukkiri-java2/javabooks/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/user/sukkiri-java2/javabooks/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'javabooks 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'javabooks 1.0-SNAPSHOT API'
+jp.miyabilink
+/home/user/.m2/repository/org/apache/commons/commons-lang3/3.11/commons-lang3-3.11.jar = 1594560720000
+/home/user/sukkiri-java2/javabooks/src/main/java = 1727693062479
+/home/user/sukkiri-java2/javabooks/target/reports/apidocs/element-list = 1727695862122
+/home/user/sukkiri-java2/javabooks/target/reports/apidocs/overview-tree.html = 1727695862137
+/home/user/sukkiri-java2/javabooks/target/reports/apidocs/allclasses-index.html = 1727695862143
+/home/user/sukkiri-java2/javabooks/target/reports/apidocs/allpackages-index.html = 1727695862143
+/home/user/sukkiri-java2/javabooks/target/reports/apidocs/module-search-index.js = 1727695862144
+/home/user/sukkiri-java2/javabooks/target/reports/apidocs/package-search-index.js = 1727695862144
+/home/user/sukkiri-java2/javabooks/target/reports/apidocs/type-search-index.js = 1727695862144
+/home/user/sukkiri-java2/javabooks/target/reports/apidocs/member-search-index.js = 1727695862144
+/home/user/sukkiri-java2/javabooks/target/reports/apidocs/tag-search-index.js = 1727695862144
+/home/user/sukkiri-java2/javabooks/target/reports/apidocs/index-all.html = 1727695862150
+/home/user/sukkiri-java2/javabooks/target/reports/apidocs/search.html = 1727695862150
+/home/user/sukkiri-java2/javabooks/target/reports/apidocs/index.html = 1727695862151
+/home/user/sukkiri-java2/javabooks/target/reports/apidocs/help-doc.html = 1727695862153
+/home/user/sukkiri-java2/javabooks/target/reports/apidocs/stylesheet.css = 1727695862154
+/home/user/sukkiri-java2/javabooks/target/reports/apidocs/script.js = 1727695862154
+/home/user/sukkiri-java2/javabooks/target/reports/apidocs/copy.svg = 1727695862154
+/home/user/sukkiri-java2/javabooks/target/reports/apidocs/link.svg = 1727695862155
+/home/user/sukkiri-java2/javabooks/target/reports/apidocs/search.js = 1727695862156
+/home/user/sukkiri-java2/javabooks/target/reports/apidocs/search-page.js = 1727695862157
+/home/user/sukkiri-java2/javabooks/target/reports/apidocs/javadoc.sh = 1727695415224

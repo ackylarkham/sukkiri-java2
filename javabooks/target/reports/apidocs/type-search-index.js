@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"jp.miyabilink","l":"App"},{"p":"jp.miyabilink","l":"Book"}];updateSearchResults();
