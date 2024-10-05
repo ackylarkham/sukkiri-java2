@@ -1,0 +1,56 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'/home/user/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.11.1/junit-jupiter-params-5.11.1.jar:/home/user/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/user/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.11.1/junit-jupiter-engine-5.11.1.jar:/home/user/.m2/repository/org/junit/platform/junit-platform-engine/1.11.1/junit-platform-engine-1.11.1.jar:/home/user/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.11.1/junit-jupiter-api-5.11.1.jar:/home/user/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/home/user/.m2/repository/org/junit/platform/junit-platform-commons/1.11.1/junit-platform-commons-1.11.1.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'/home/user/sukkiri-java2/javabanks/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/user/sukkiri-java2/javabanks/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'javabanks 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'javabanks 1.0-SNAPSHOT API'
+jp.miyabilink
+/home/user/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.11.1/junit-jupiter-params-5.11.1.jar = 1727247578000
+/home/user/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar = 1624798415000
+/home/user/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.11.1/junit-jupiter-engine-5.11.1.jar = 1727247597000
+/home/user/.m2/repository/org/junit/platform/junit-platform-engine/1.11.1/junit-platform-engine-1.11.1.jar = 1727247571000
+/home/user/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.11.1/junit-jupiter-api-5.11.1.jar = 1727247584000
+/home/user/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar = 1688646332000
+/home/user/.m2/repository/org/junit/platform/junit-platform-commons/1.11.1/junit-platform-commons-1.11.1.jar = 1727247554000
+/home/user/sukkiri-java2/javabanks/src/main/java = 1727767728467
+/home/user/sukkiri-java2/javabanks/target/reports/apidocs/element-list = 1728094671708
+/home/user/sukkiri-java2/javabanks/target/reports/apidocs/overview-tree.html = 1728094671721
+/home/user/sukkiri-java2/javabanks/target/reports/apidocs/allclasses-index.html = 1728094671726
+/home/user/sukkiri-java2/javabanks/target/reports/apidocs/allpackages-index.html = 1728094671727
+/home/user/sukkiri-java2/javabanks/target/reports/apidocs/module-search-index.js = 1728094671727
+/home/user/sukkiri-java2/javabanks/target/reports/apidocs/package-search-index.js = 1728094671727
+/home/user/sukkiri-java2/javabanks/target/reports/apidocs/type-search-index.js = 1728094671727
+/home/user/sukkiri-java2/javabanks/target/reports/apidocs/member-search-index.js = 1728094671727
+/home/user/sukkiri-java2/javabanks/target/reports/apidocs/tag-search-index.js = 1728094671727
+/home/user/sukkiri-java2/javabanks/target/reports/apidocs/index-all.html = 1728094671733
+/home/user/sukkiri-java2/javabanks/target/reports/apidocs/search.html = 1728094671734
+/home/user/sukkiri-java2/javabanks/target/reports/apidocs/index.html = 1728094671735
+/home/user/sukkiri-java2/javabanks/target/reports/apidocs/help-doc.html = 1728094671737
+/home/user/sukkiri-java2/javabanks/target/reports/apidocs/stylesheet.css = 1728094671738
+/home/user/sukkiri-java2/javabanks/target/reports/apidocs/script.js = 1728094671738
+/home/user/sukkiri-java2/javabanks/target/reports/apidocs/copy.svg = 1728094671738
+/home/user/sukkiri-java2/javabanks/target/reports/apidocs/link.svg = 1728094671739
+/home/user/sukkiri-java2/javabanks/target/reports/apidocs/search.js = 1728094671739
+/home/user/sukkiri-java2/javabanks/target/reports/apidocs/search-page.js = 1728094671740
